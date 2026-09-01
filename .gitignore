@@ -1,0 +1,19 @@
+# Xcode
+DerivedData/
+xcuserdata/
+*.xcuserstate
+
+# Node
+node_modules/
+
+# SQLite (server data)
+*.db
+*.db-wal
+*.db-shm
+
+.DS_Store
+
+# Build output
+build/
+build-test/
+iOS Assignment.pdf
